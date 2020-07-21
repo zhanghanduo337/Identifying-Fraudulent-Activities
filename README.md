@@ -11,3 +11,5 @@ These are the tasks you are asked to do:
 1. For each user, determine her country based on the numeric IP address.
 2. Build a model to predict whether an activity is fraudulent or not. Explain how different assumptions about the cost of false positives vs false negatives would impact the model.
 4. Let's say you now have this model which can be used live to predict in real time if an activity is fraudulent or not. From a product perspective, how would you use it? That is, what kind of different user experiences would you build based on the model output?
+
+Note: comments are embedded in the code file
